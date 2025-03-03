@@ -1,6 +1,10 @@
 [submodule "client"]
 	path = client
-	url = ./client
+	url = https://github.com/PhanhotboY/bliss-remix
 [submodule "server"]
 	path = server
-	url = ./server/
+	url = https://github.com/PhanhotboY/bliss-node
+[submodule "."]
+	branch = nails-nha-y
+[submodule "server/"]
+	branch = nails-nha-y
