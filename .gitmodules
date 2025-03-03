@@ -4,6 +4,7 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/PhanhotboY/bliss-node
+	branch = master
 [submodule "."]
 	branch = nails-nha-y
 [submodule "server/"]
